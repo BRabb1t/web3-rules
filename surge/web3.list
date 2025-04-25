@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,monitor-frontend-collector.a.bybit-aws.com
 DOMAIN-SUFFIX,bybit.biz
+URL-REGEX,^https?:\/\/.*\.amazonaws\.com\/.*bybit.*
 DOMAIN-SUFFIX,bybdc6.com
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,byapps.net
