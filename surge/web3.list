@@ -14,6 +14,13 @@ DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitstamp.net
 DOMAIN-SUFFIX,bittrex.com
 DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,monitor-frontend-collector.a.bybit-aws.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coincheck.com
 DOMAIN-SUFFIX,coinone.co.kr
@@ -337,3 +344,4 @@ DOMAIN-SUFFIX,axiom.trade
 DOMAIN-SUFFIX,four.meme
 DOMAIN-SUFFIX,usual.money
 DOMAIN-SUFFIX,pendle.finance
+DOMAIN-SUFFIX,venus.io
