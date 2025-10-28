@@ -346,3 +346,6 @@ DOMAIN-SUFFIX,four.meme
 DOMAIN-SUFFIX,usual.money
 DOMAIN-SUFFIX,pendle.finance
 DOMAIN-SUFFIX,venus.io
+
+# > Opinion
+DOMAIN-SUFFIX,opinion.trade
