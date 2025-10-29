@@ -86,6 +86,11 @@ DOMAIN-SUFFIX,bnappzh.mobi
 DOMAIN-SUFFIX,bsc.getblock.io
 DOMAIN-SUFFIX,bscscan.com
 DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.com
 PROCESS-NAME,Binance.exe
 DOMAIN-KEYWORD,binance
 
