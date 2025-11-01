@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,avax.network
 DOMAIN-SUFFIX,optimism.io
 DOMAIN-SUFFIX,arbitrum.io
+DOMAIN-SUFFIX,alchemy.com
 DOMAIN-SUFFIX,poly.network
 DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
@@ -148,6 +149,8 @@ DOMAIN-SUFFIX,cnouyi.pizza
 DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okex.org
+DOMAIN-SUFFIX,coinall.ltd
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
@@ -379,6 +382,9 @@ DOMAIN-SUFFIX,venus.io
 
 # > Opinion
 DOMAIN-SUFFIX,opinion.trade
+
+# > fiat24
+DOMAIN-SUFFIX,fiat24.com
 
 # > Buildpad
 DOMAIN-SUFFIX,buildpad.com
