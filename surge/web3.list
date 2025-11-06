@@ -44,8 +44,11 @@ DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,avax.network
 DOMAIN-SUFFIX,optimism.io
 DOMAIN-SUFFIX,arbitrum.io
+DOMAIN-SUFFIX,llamarpc.com
+DOMAIN-SUFFIX,publicnode.com
 DOMAIN-SUFFIX,alchemy.com
 DOMAIN-SUFFIX,poly.network
+DOMAIN-SUFFIX,polygon-rpc.com
 DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,boba.network
@@ -100,6 +103,8 @@ DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,bnappweb.biz
 DOMAIN-SUFFIX,bscrpc.com
 DOMAIN-SUFFIX,ninicoin.io
+DOMAIN-SUFFIX,nodereal.io
+DOMAIN-SUFFIX,bnw3w.com
 
 # > SaaS / 营销相关服务
 DOMAIN-SUFFIX,appsflayer.com
@@ -326,6 +331,7 @@ DOMAIN-SUFFIX,tronlink.org
 DOMAIN-SUFFIX,myetherwallet.com
 DOMAIN-SUFFIX,jaxx.io
 DOMAIN-SUFFIX,trustwalletapp.com
+DOMAIN-SUFFIX,trustwallet.com
 
 # > Gate
 DOMAIN-SUFFIX,gate.ac
@@ -347,6 +353,8 @@ DOMAIN-SUFFIX,makerdao.com
 DOMAIN-SUFFIX,wbtc.network
 DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,pancakeswap.com
+DOMAIN-SUFFIX,pancakeswap.info
+DOMAIN-SUFFIX,yshyqxx.com
 DOMAIN-SUFFIX,mdex.co
 DOMAIN-SUFFIX,mdex.one
 DOMAIN-SUFFIX,mdex.com
